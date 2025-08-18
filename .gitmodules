@@ -4,6 +4,3 @@
 [submodule "evmc"]
 	path = evmc
 	url = https://github.com/Odan-Lab/odan-evmc.git
-
-
-
